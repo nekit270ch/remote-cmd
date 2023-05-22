@@ -12,6 +12,6 @@ remotecmd [-n <host>] [-c <id> <host>]
             host: URL для RemoteCmd API
 ```
 Доступные сервера:
-- https://nekit270.ch/v
+- https://nekit270.ch/rcapi
 
 Вы можете создать собственный сервер RemoteCmd API и использовать его. Для этого скопируйте папку `serv` на свой HTTP-сервер.
